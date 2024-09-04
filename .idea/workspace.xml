@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SMS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_scraping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twitter_bot.py" afterDir="false" />
+    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Data Scraping, SMS, Twitter Bot">
+      <change afterPath="$PROJECT_DIR$/password_checker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +75,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725460820221</updated>
     </task>
+    <task id="LOCAL-00001" summary="Data Scraping, SMS, Twitter Bot">
+      <option name="closed" value="true" />
+      <created>1725461015684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725461015684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data Scraping, SMS, Twitter Bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Scraping, SMS, Twitter Bot" />
   </component>
 </project>
