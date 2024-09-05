@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Web Server 1">
-      <change afterPath="$PROJECT_DIR$/web server/static/main.3f6952e4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web server/static/main.3f6952e4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web server/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web server/templates/components.html" afterDir="false" />
+    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Web Server 2">
+      <change afterPath="$PROJECT_DIR$/web server/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/templates/thankyou.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725466657605</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Python Web Server 2">
+      <option name="closed" value="true" />
+      <created>1725551644113</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725551644113</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +144,7 @@
     <MESSAGE value="PDFs" />
     <MESSAGE value="Image Processing" />
     <MESSAGE value="Python Web Server 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Web Server 1" />
+    <MESSAGE value="Python Web Server 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Web Server 2" />
   </component>
 </project>
