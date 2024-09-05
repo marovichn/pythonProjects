@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Web Server 2">
-      <change afterPath="$PROJECT_DIR$/web server/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web server/templates/thankyou.html" afterDir="false" />
+    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Web Server 3">
+      <change afterPath="$PROJECT_DIR$/web server/templates/work.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/templates/works.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725551644113</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Python Web Server 3">
+      <option name="closed" value="true" />
+      <created>1725551724687</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725551724687</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +153,7 @@
     <MESSAGE value="Image Processing" />
     <MESSAGE value="Python Web Server 1" />
     <MESSAGE value="Python Web Server 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Web Server 2" />
+    <MESSAGE value="Python Web Server 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Web Server 3" />
   </component>
 </project>
