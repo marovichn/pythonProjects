@@ -9,11 +9,6 @@ def my_home():
     return render_template('index.html')
 
 
-'''
-def my_home():
-    return render_template('index.html')
-
-
 @app.route('/<string:page_name>')
 def html_page(page_name):
     return render_template(page_name)
@@ -47,4 +42,3 @@ def submit_form():
             return 'did not save to database'
     else:
         return 'something went wrong. Try again!!'
-'''

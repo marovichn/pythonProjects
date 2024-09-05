@@ -4,10 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Web Server 3">
-      <change afterPath="$PROJECT_DIR$/web server/templates/work.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web server/templates/works.html" afterDir="false" />
+    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Web Server 4">
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/space.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/work001-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/work001-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/work001-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/work001-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/work01-hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/work02-hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web server/static/assets/images/work03-hover.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web server/python_webdev.py" beforeDir="false" afterPath="$PROJECT_DIR$/web server/python_webdev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web server/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/web server/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web server/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/web server/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web server/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web server/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web server/templates/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/web server/templates/thankyou.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web server/templates/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/web server/templates/work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web server/templates/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/web server/templates/works.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +49,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Home/PycharmProjects/pythonProjects/web server/static/assets"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static\assets" />
+      <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static\assets\images" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\templates" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server" />
@@ -143,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725551724687</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Python Web Server 4">
+      <option name="closed" value="true" />
+      <created>1725551776812</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725551776812</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +184,7 @@
     <MESSAGE value="Python Web Server 1" />
     <MESSAGE value="Python Web Server 2" />
     <MESSAGE value="Python Web Server 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Web Server 3" />
+    <MESSAGE value="Python Web Server 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Web Server 4" />
   </component>
 </project>
