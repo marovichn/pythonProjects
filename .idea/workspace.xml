@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Web Server Portfolio Practise v.1.0.1">
-      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Testing and Automation v.1.0.0">
+      <change afterPath="$PROJECT_DIR$/ml.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725553362844</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Python Testing and Automation v.1.0.0">
+      <option name="closed" value="true" />
+      <created>1726241712258</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726241712258</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +198,7 @@
     <MESSAGE value="Python Web Server 4" />
     <MESSAGE value="Python Web Server Portfolio Practise v.1.0.0" />
     <MESSAGE value="Python Web Server Portfolio Practise v.1.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Web Server Portfolio Practise v.1.0.1" />
+    <MESSAGE value="Python Testing and Automation v.1.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Testing and Automation v.1.0.0" />
   </component>
 </project>
