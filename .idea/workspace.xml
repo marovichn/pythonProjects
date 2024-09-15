@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Testing and Automation v.1.0.0">
-      <change afterPath="$PROJECT_DIR$/ml.py" afterDir="false" />
+    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Machine Learning (Learning about)">
+      <change afterPath="$PROJECT_DIR$/olympic_data/Olympic_Athlete_Biography.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/olympic_data/Olympic_Athlete_Event_Details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/olympic_data/Olympic_Country_Profiles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/olympic_data/Olympic_Event_Results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/olympic_data/Olympic_Games_Summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/olympic_data/Olympic_Medal_Tally_History.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,26 +41,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.testing.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Home/PycharmProjects/pythonProjects/web server/static/assets"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/PycharmProjects/pythonProjects/web server/static/assets&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static\assets" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\pythonProjects\olympic_data" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static\assets\images" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\templates" />
-      <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server" />
     </key>
   </component>
   <component name="RunManager">
@@ -184,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726241712258</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Python Machine Learning (Learning about)">
+      <option name="closed" value="true" />
+      <created>1726242842724</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726242842724</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +214,7 @@
     <MESSAGE value="Python Web Server Portfolio Practise v.1.0.0" />
     <MESSAGE value="Python Web Server Portfolio Practise v.1.0.1" />
     <MESSAGE value="Python Testing and Automation v.1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Testing and Automation v.1.0.0" />
+    <MESSAGE value="Python Machine Learning (Learning about)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Machine Learning (Learning about)" />
   </component>
 </project>
