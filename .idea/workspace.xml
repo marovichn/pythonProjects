@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python Data Analysis, Visualization, Jupiter Notebooks" />
+    <list default="true" id="427287c6-0d07-4579-b3ae-2f635e45e1f9" name="Changes" comment="Python ML Classification Model">
+      <change afterPath="$PROJECT_DIR$/house.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobilenet_v2-b0353104.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,20 +32,25 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2lbttpMOHiaD15UD8LQ1WTV0a9S" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/PycharmProjects/pythonProjects&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "Python.ml.executor": "Run",
+    "Python.testing.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Home/PycharmProjects/pythonProjects"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects" />
@@ -48,8 +58,8 @@
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Home\PycharmProjects\pythonProjects\olympic_data" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects" />
+      <recent name="C:\Users\Home\PycharmProjects\pythonProjects\olympic_data" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static\assets\images" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\static" />
       <recent name="C:\Users\Home\PycharmProjects\pythonProjects\web server\templates" />
@@ -207,10 +217,19 @@
       <option name="project" value="LOCAL" />
       <updated>1726403551729</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Python ML Classification Model">
+      <option name="closed" value="true" />
+      <created>1726405543267</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726405543267</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Data Scraping, SMS, Twitter Bot" />
     <MESSAGE value="Password Checker" />
     <MESSAGE value="PDFs" />
@@ -225,6 +244,7 @@
     <MESSAGE value="Python Machine Learning (Learning about)" />
     <MESSAGE value="Python Data Analysis, Visualization, Jypiter Notebooks" />
     <MESSAGE value="Python Data Analysis, Visualization, Jupiter Notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Data Analysis, Visualization, Jupiter Notebooks" />
+    <MESSAGE value="Python ML Classification Model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python ML Classification Model" />
   </component>
 </project>
